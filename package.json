@@ -1,0 +1,15 @@
+{
+  "name": "mvp-consulting",
+  "version": "1.0.0",
+  "description": "consulting portfolio",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zlatac",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
