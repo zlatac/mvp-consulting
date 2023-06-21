@@ -2,6 +2,10 @@
   "name": "mvp-consulting",
   "version": "1.0.0",
   "description": "consulting portfolio",
+  "engines": {
+    "node": "18.5",
+    "npm": "6.14"
+  },
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
